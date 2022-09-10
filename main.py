@@ -1,5 +1,5 @@
 
-from config import config
+
 from re import I
 from subprocess import call
 from pyrogram import Client, filters
